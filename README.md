@@ -44,6 +44,3 @@ escolhas sempre que possível.
 O que seria bom ver em seu teste
 - Testes unitários
 - Retorno com mensagens específicas para cada tipo de erro
-Entrega
-Ao término do desafio, disponibilizar o código fonte via git ou por email, junto com
-instruções de como executar o código.
