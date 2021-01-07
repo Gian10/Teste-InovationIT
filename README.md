@@ -1,6 +1,6 @@
 # Teste-InovationIT
 
-**EXECUTAR COM O NODEMON**
+**EXECUTAR COM O NODEMON**, 
 **EXECUTAR TESTE COM NPM TEST**
 
 ------------------------------------------
