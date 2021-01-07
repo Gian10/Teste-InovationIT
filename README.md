@@ -1,7 +1,7 @@
 # Teste-InovationIT
 
-*EXECUTAR COM O NODEMON
-*EXECUTAR TESTE COM NPM TEST
+**EXECUTAR COM O NODEMON**
+**EXECUTAR TESTE COM NPM TEST**
 
 ------------------------------------------
 Teste Prático Back End
