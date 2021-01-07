@@ -26,10 +26,7 @@ status 200
 “amount”: “20.00”,
 “expirationDate”: “2018-07-16”
 }
-Você pode consultar a documentação para realizar o desenvolvimento das regras para cada
-tipo de boleto abaixo:
-- Documentação Título
-- Documentação Convênio
+
 O que esperamos do seu teste
 - Que a API seja desenvolvida utilizando Node JS
 - A validação do boleto deve ser feita sem auxílio de bibliotecas de terceiros, aqui
