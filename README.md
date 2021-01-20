@@ -1,16 +1,9 @@
-# Teste-InovationIT
 
-**EXECUTAR COM O NODEMON**, 
-**EXECUTAR TESTE COM NPM TEST**
-
-------------------------------------------
-Teste Prático Back End
-O Desafio
-Queremos poder através da aplicação consultar linhas digitáveis de boleto de título bancário
+Através da aplicação consultar linhas digitáveis de boleto de título bancário
 e pagamento de concessionárias, verificando se a mesma é válida ou não. Sendo válida e
 possuindo valor e/ou data de vencimento ter o retorno desses dados.
 Instruções
-O teste consiste em escrever um programa em Node.js que expõe uma API na qual é dada
+A aplicação em Node.js vai ter uma API na qual é dada
 como entrada uma linha digitada de um boleto e que retorna:
 status : 200 para linha válida ou 400 para linha inválida
 amount : O valor do boleto, se existir
@@ -28,7 +21,7 @@ status 200
 “expirationDate”: “2018-07-16”
 }
 
-O que esperamos do seu teste
+O que esperar da api
 - Que a API seja desenvolvida utilizando Node JS
 - A validação do boleto deve ser feita sem auxílio de bibliotecas de terceiros, aqui
 queremos avaliar seu raciocínio lógico
